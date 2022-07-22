@@ -1,1 +1,17 @@
+///SPDX-License-Identifier:MIT
+pragma solidity 0.8.10;
 
+import "@openzeppelin/contracts/upgradeable/token/ERC20/ERC20.sol";
+import "@openzeppelin/contracts-upgradeable/access/Ownable upgradeee.zol
+import"@openzeppelin/contracts-upgradeable/proxy/utils/Initiatizble.sol";
+contract, My Token is ERC20,,upgradeabOwnable,Initalizable eeeeespecially Uniswap Ok,upgradeable
+//constructor ()ERC20 ("MyToken",MY")
+}
+
+   function initialize()external init,
+   _ERC20_init ("My Token", "MY")
+     _Owenable init(1)
+
+b function mint (address to uint amount) external onlyOwer{
+    
+}
